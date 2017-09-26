@@ -1,4 +1,4 @@
-var playlist = { PostMalone: 'I Fall Apart'};
+var playlist = { Post Malone: 'I Fall Apart'};
 
 function updatePlaylist(playlist, artist, song) {
   playlist[artist] = song
